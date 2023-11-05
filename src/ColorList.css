@@ -1,0 +1,21 @@
+/* ColorList.css */
+.list-container {
+    background: #f0f0f0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+  }
+  
+  .list-item {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .list-item a {
+    text-decoration: none;
+    color: #333;
+  }
+  
